@@ -10,7 +10,8 @@ This code is used in
 <br>
 <br>
 Author*- Charana Rajagopal (charana.rajagopal@gmail.com)
-<br>*B. Misic contributed to some parts of the code. 
+<br>*B. Misic contributed to some parts of the code.
+<br>
 <br>A copy of this code can be also found <a href="https://github.com/Charana22/pls_connectivity">here</a>
 
 
